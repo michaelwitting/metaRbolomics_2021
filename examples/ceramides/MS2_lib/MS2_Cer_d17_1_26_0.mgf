@@ -1,0 +1,45 @@
+###	G:\20181019_Sphingolipidome\MS2_ref\MS2_HexCer_d17_1_26_0.mgf
+###	G:\20181019_Sphingolipidome\20181106_SphingoLipidomePos_FractionsSapoMSMS\smp8-2_Cer_Pref_2-E,2_01_21858.d\analysis.baf
+###	smp8-2_Cer_Pref_2-E,2_01_21858.d
+###	Instrument: maXis
+###    smp8-2_Cer_Pref
+###    PeakWidth 5.00, MiniumIntensity 200, S/N 0Apply threshold 0, Threshold 10
+###    Retain Residuals no, Create neutrally no,
+###    FullScan Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000, MaxCharge charge decon 10, MinPeaks 3
+###    Perf. isotope decon yes, Max Charge Istopic decon 5, MW agreement 0.00, Abund. cutoff 2.00, Envelope cutoff 75.00
+###    MaxRes   Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 5, Abund. cutoff 2.00
+###    MSn      Parameters: AdductIon (+)+H (-)-H, LowMass 50, HighMass 2000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 4, Abund. cutoff 0.50
+###    Global Charge Limit: yes 3, Prefer FullScan Result: yes, Export what: 2 (0=non deconv/1=deconv only/2=mixed), NoMSMSSignals: 50, Intensity threshold: 100, NoMSSignals (deconv): 2, NoMSSignals (non-deconv): 20, NormalizeData: no, SingleCharged: no
+###
+COM=smp8-2_Cer_Pref_2-E,2_01_21858.d
+USERNAME=MW
+CHARGE=1+, 2+ and 3+
+
+###	+MS2(664.6598), 10.0-40.0eV, 32.5min #9606
+
+###FS:    #m/z: 664.65985 #charge undefined
+###MS: 
+###MSMS: 
+BEGIN IONS
+TITLE=+MS2(664.6598), 10.0-40.0eV, 32.5min #9606
+RTINSECONDS=0
+RAWSCANS=
+PEPMASS=664.65985	14446
+95.08612	616	
+121.10146	212	
+123.11665	242	
+238.25251	974	
+250.25298	9504	
+251.25698	1186	
+268.26295	1120	
+278.28670	222	
+628.63700	210	
+646.64881	3434	
+647.65243	1570	
+664.65953	4450	
+665.66462	1446	
+666.66567	522	
+END IONS
+

@@ -1,0 +1,50 @@
+###	G:\20181019_Sphingolipidome\MS2_ref\MS2_HexCer_d17_1_24_0_OH_001.mgf
+###	G:\20181019_Sphingolipidome\20181106_SphingoLipidomePos_FractionsSapoMSMS\smp8-4_HexCer_Pref_H2Oloss_2-E,4_01_21861.d\analysis.baf
+###	smp8-4_HexCer_Pref_H2Oloss_2-E,4_01_21861.d
+###	Instrument: maXis
+###    smp8-4_HexCer_Pref_H2Oloss
+###    PeakWidth 5.00, MiniumIntensity 200, S/N 0Apply threshold 0, Threshold 10
+###    Retain Residuals no, Create neutrally no,
+###    FullScan Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000, MaxCharge charge decon 10, MinPeaks 3
+###    Perf. isotope decon yes, Max Charge Istopic decon 5, MW agreement 0.00, Abund. cutoff 2.00, Envelope cutoff 75.00
+###    MaxRes   Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 5, Abund. cutoff 2.00
+###    MSn      Parameters: AdductIon (+)+H (-)-H, LowMass 50, HighMass 2000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 4, Abund. cutoff 0.50
+###    Global Charge Limit: yes 3, Prefer FullScan Result: yes, Export what: 2 (0=non deconv/1=deconv only/2=mixed), NoMSMSSignals: 50, Intensity threshold: 100, NoMSSignals (deconv): 2, NoMSSignals (non-deconv): 20, NormalizeData: no, SingleCharged: no
+###
+COM=smp8-4_HexCer_Pref_H2Oloss_2-E,4_01_21861.d
+USERNAME=MW
+CHARGE=1+, 2+ and 3+
+
+###	+MS2(814.6733), 10.0-40.0eV, 28.5min #8393
+
+###FS:    #m/z: 814.67328 #charge undefined
+###MS: 
+###MSMS: 
+BEGIN IONS
+TITLE=+MS2(814.6733), 10.0-40.0eV, 28.5min #8393
+RTINSECONDS=0
+RAWSCANS=
+PEPMASS=814.67328	2942
+95.08533	214	
+238.25203	386	
+250.25330	2086	
+251.25502	524	
+268.26358	226	
+366.37121	278	
+384.38390	412	
+604.59905	662	
+605.60113	270	
+616.60342	1966	
+617.60585	908	
+618.61378	376	
+634.61003	948	
+635.61189	304	
+796.66284	1242	
+797.66876	356	
+798.66229	232	
+814.67328	2942	
+815.67702	922	
+END IONS
+

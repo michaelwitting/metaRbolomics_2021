@@ -1,0 +1,62 @@
+###	G:\20181019_Sphingolipidome\MS2_ref\MS2_Cer_d17_1_26_0_OH_001.mgf
+###	G:\20181019_Sphingolipidome\20181106_SphingoLipidomePos_FractionsSapoMSMS\smp8-2_Cer_Pref_2-E,2_01_21858.d\analysis.baf
+###	smp8-2_Cer_Pref_2-E,2_01_21858.d
+###	Instrument: maXis
+###    smp8-2_Cer_Pref
+###    PeakWidth 5.00, MiniumIntensity 200, S/N 0Apply threshold 0, Threshold 10
+###    Retain Residuals no, Create neutrally no,
+###    FullScan Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000, MaxCharge charge decon 10, MinPeaks 3
+###    Perf. isotope decon yes, Max Charge Istopic decon 5, MW agreement 0.00, Abund. cutoff 2.00, Envelope cutoff 75.00
+###    MaxRes   Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 5, Abund. cutoff 2.00
+###    MSn      Parameters: AdductIon (+)+H (-)-H, LowMass 50, HighMass 2000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 4, Abund. cutoff 0.50
+###    Global Charge Limit: yes 3, Prefer FullScan Result: yes, Export what: 2 (0=non deconv/1=deconv only/2=mixed), NoMSMSSignals: 50, Intensity threshold: 100, NoMSSignals (deconv): 2, NoMSSignals (non-deconv): 20, NormalizeData: no, SingleCharged: no
+###
+COM=smp8-2_Cer_Pref_2-E,2_01_21858.d
+USERNAME=MW
+CHARGE=1+, 2+ and 3+
+
+###	+MS2(680.6555), 10.0-40.0eV, 31.5min #9317
+
+###FS:    #m/z: 680.65545 #charge undefined
+###MS: 
+###MSMS: 
+BEGIN IONS
+TITLE=+MS2(680.6555), 10.0-40.0eV, 31.5min #9317
+RTINSECONDS=0
+RAWSCANS=
+PEPMASS=680.65545	36814
+95.08520	642	
+97.10115	704	
+109.10078	328	
+121.10125	436	
+123.11689	278	
+130.15980	212	
+135.11774	298	
+233.22678	238	
+238.25316	2976	
+239.25558	834	
+250.25253	15856	
+251.25678	2348	
+268.26338	2018	
+269.26656	572	
+412.41466	334	
+495.26431	366	
+551.32805	512	
+552.33557	230	
+607.38748	270	
+632.63563	428	
+644.63361	1110	
+645.63702	250	
+662.64454	13118	
+663.45589	498	
+663.64844	4028	
+664.45180	368	
+664.65260	738	
+679.50860	312	
+680.65462	7992	
+681.65761	3200	
+682.66867	846	
+END IONS
+
